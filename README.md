@@ -1,4 +1,4 @@
-# Log-watcher-tail--F-.log-Python-recipe-
+
 Basic usage
 
 same as: tail -F /var/log/*.log
